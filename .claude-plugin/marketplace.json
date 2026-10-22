@@ -1,0 +1,25 @@
+{
+  "name": "sicivil",
+  "owner": {
+    "name": "Applied Ontologies",
+    "email": "tom@sicivil.com",
+    "url": "https://sicivil.com/"
+  },
+  "description": "Applied Ontologies plugins for Claude: Civil, the SI Civil connector for civil engineering and civil construction projects.",
+  "plugins": [
+    {
+      "name": "sic-civil",
+      "displayName": "Civil",
+      "source": "./",
+      "description": "Ask Claude about your SI Civil projects: the tender price, management plans, ITPs and hold points, SWMS, the programme, quality, procurement, the weekly look-ahead, lots, risks and documents.",
+      "category": "productivity",
+      "tags": [
+        "civil",
+        "construction",
+        "ITP",
+        "programme",
+        "estimating"
+      ]
+    }
+  ]
+}

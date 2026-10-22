@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sic-civil": {
+      "type": "http",
+      "url": "https://mcp.sicivil.com/mcp"
+    }
+  }
+}
