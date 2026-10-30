@@ -1,7 +1,7 @@
 {
   "name": "sic-civil",
   "displayName": "Civil",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Civil connects Claude to SI Civil (Super Intelligence Civil), the AI system for civil engineering and civil construction. SI Civil prices the tender, writes the management plans, ITPs and SWMS, builds the programme, manages quality, procurement, the weekly look-ahead and material quantities, and runs delivery through to the claims. In Claude you ask about all of it for the projects you are appointed to, within your role, and draft comments for the team.",
   "author": {
     "name": "Applied Ontologies",

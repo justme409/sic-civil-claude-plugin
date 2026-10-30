@@ -55,7 +55,7 @@ What you see follows your role on each project. Commercial information, such as 
 
 ## Data and privacy
 
-The plugin sends your requests to SI Civil at `mcp.sicivil.com`, with the access token from your sign-in at `auth.sicivil.com`. SI Civil reads the project records you are allowed to see and returns plain-text answers to Claude. It records each sign-in and each tool call (the tool, its arguments and the result) for 12 months for audit and support. The servers are in Germany (Hetzner, Nuremberg), behind Cloudflare. Your project records are never used to train AI models.
+The plugin sends your requests to SI Civil at `mcp.sicivil.com`, with the access token from your sign-in at `auth.sicivil.com`. SI Civil reads the project records you are allowed to see and returns plain-text answers to Claude. It records each sign-in and each tool call (the tool, its arguments and the result) for 12 months for audit and support. The servers are in Sydney, Australia (Oracle Cloud Infrastructure), behind Cloudflare, with encrypted backups held by Hetzner in the European Union. Your project records are never used to train AI models.
 
 - Privacy policy: https://sicivil.com/privacy
 - Terms: https://sicivil.com/terms
